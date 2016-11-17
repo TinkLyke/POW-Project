@@ -1,0 +1,10 @@
+SFWR ENG 2XB3
+Name                    Student ID                      Role      
+Yifu Wu                 1450544                     QUI Designer
+Nick Kozel              1404557                     Developer
+Damian Angelone         1408211                     Development Lead
+Louis Bursey            1415915                     Tester
+Athony Chang            1413615                     Quality Assurance
+
+
+The work has been submitted was our own work.
